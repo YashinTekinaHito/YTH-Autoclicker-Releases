@@ -1,0 +1,7 @@
+{
+  "version": "1.00.1",
+  "file": "YTH-Macro-Autoclicker.exe",
+  "size": 965120,
+  "sha256": "a4be26b409303119fb783023e88c3b40ee0b476f7c246fe016e4b5472f0896e2",
+  "notes": "## Änderungen in 1.01\r\n\r\n- **Neues App-Symbol:** Die App trägt jetzt das YTH-Artwork als Icon – im Fenster, in der Taskleiste und in der EXE-Datei.\r\n- **Neuer Dateiname: `YTH-Macro-Autoclicker.exe`.** Eine alte `YTH-AutoClicker.exe` im selben Ordner wird beim Start entfernt, damit nie aus Versehen die alte Fassung startet. Deine Konfigurationen bleiben unverändert in `%AppData%\\YTH Autoclicker`.\r\n- **Warnung „Haltedauer übernehmen?“ neu:** 80 % größer, ein sauberer roter Rahmen und ein Text, der beide Zahlen erklärt. „Übernehmen“ ist die ersten zwei Sekunden gesperrt und zählt sichtbar herunter – „Behalten“ und Esc gehen sofort.\r\n- **Laufzeit-Karte aufgeräumt:** fester Wert oben rechts, eine vollständige Skala von ∞ bis 72 h, Felder mit Beschriftung darüber und ein Satz, der erklärt, was Regler und Felder tun. Nichts wird mehr abgeschnitten.\r\n- **Haltedauer startet mit 50 ms** statt 35 ms – der häufigste Wert ist damit schon eingestellt.\r\n"
+}
